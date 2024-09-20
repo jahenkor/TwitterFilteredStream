@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ahenkoracs</groupId>
-    <artifactId>SpringMSExample2</artifactId>
+    <artifactId>TwitterRealTimeApi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringMSExample2</name>
     <description>SpringMSExample2</description>
